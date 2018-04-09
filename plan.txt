@@ -1,0 +1,14 @@
+# get list of websites
+# foreach website:
+    # scrape data (might need a specialized scrapper for each file)
+# foreach result do
+    # save
+
+
+# better alternative:
+# get list of websites and their scrapper classes
+# foreach element do:
+    # run scapper
+    # save results
+
+
